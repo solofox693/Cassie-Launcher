@@ -1,0 +1,7 @@
+{
+  "//": "Ignore File Names Mainly used for C++ .dll Files, ONLY add if .dll needs other .dll files to load",
+  "FileNames": [
+    "ijwhost.dll"
+  ],
+  "Prefixes": []
+}
