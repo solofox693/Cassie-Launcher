@@ -37,7 +37,7 @@
 > - UI Overhaul: Major interface refresh for modernized navigation and layout.
 
 ## Found a bug or want to see a new feature?
-Join our discord server (here)[https://discord.gg/SFPVneKXHC]
+Join our discord server [Here](https://discord.gg/SFPVneKXHC)
 
 > [!NOTE]
 > When reporting a bug please include Warning or Errors from the console tab
