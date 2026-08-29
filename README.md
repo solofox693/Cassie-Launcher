@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/discord/1394286025026572310?logo=discord&logoColor=white&style=for-the-badge&color=5865F2)]([https://discord.gg/ybPB5tgD](https://discord.gg/SFPVneKXHC))
+[![Discord](https://img.shields.io/discord/1478855303725322290?logo=discord&logoColor=white&style=for-the-badge&color=5865F2)](https://discord.gg/SFPVneKXHC)
 [![GitHub Stars](https://img.shields.io/github/stars/solofox693/Cassie-Launcher?logo=github&style=for-the-badge&color=ffd663)](https://github.com/wtcord/wt-manager/stargazers)
 ![GitHub Downloads](https://img.shields.io/github/downloads/solofox693/Cassie-Launcher/total?style=for-the-badge&logo=github)
 
@@ -14,7 +14,7 @@
  A powerfull but lightweight fortnite launcher written in C#
 
 <p align="center">
-  <img src="./Image.png" />
+  <img src="./Cassie_Launcher_T9JaeMrV1M.png" />
 </p>
 
 ## Features
