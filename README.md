@@ -14,7 +14,7 @@
  A powerfull but lightweight fortnite launcher written in C#
 
 <p align="center">
-  <img src="./image.png" />
+  <img src="./Image.png" />
 </p>
 
 ## Features
